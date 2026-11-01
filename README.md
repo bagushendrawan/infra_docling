@@ -86,3 +86,8 @@ Current verification: lightweight API/OCR-adapter/workbook tests pass and the
 service wheel builds. Real fixture extraction is UNVERIFIED: runtime installation
 failed after retries with connection timeouts to the PaddlePaddle GPU wheel CDN
 and NVIDIA wheel downloads. Host GPU detection succeeded (RTX 3050, 4 GiB).
+
+## Original resources
+
+- [Docling](https://github.com/docling-project/docling) — document conversion framework, layout analysis, and table extraction.
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) — upstream OCR toolkit providing the PP-OCRv5 models used by this service.
